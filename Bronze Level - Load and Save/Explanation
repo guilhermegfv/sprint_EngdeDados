@@ -1,0 +1,1 @@
+Este primeiro level tem como objetivo carregar a API que traz as coordenadas de cada cidade específicada, e depois usar as coordenadas para trazer as condições climáticas de outra API, no intervalo de data especificado.
